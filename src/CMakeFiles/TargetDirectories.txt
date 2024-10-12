@@ -1,0 +1,5 @@
+/home/dan/Desktop/reduction_program/src/CMakeFiles/MyProject.dir
+/home/dan/Desktop/reduction_program/src/CMakeFiles/foo.dir
+/home/dan/Desktop/reduction_program/src/CMakeFiles/foo2.dir
+/home/dan/Desktop/reduction_program/src/CMakeFiles/edit_cache.dir
+/home/dan/Desktop/reduction_program/src/CMakeFiles/rebuild_cache.dir
