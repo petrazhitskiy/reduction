@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyApp.dir/src/elements.cpp.o CMakeFiles/MyApp.dir/src/fileprcessing.cpp.o CMakeFiles/MyApp.dir/src/main.cpp.o CMakeFiles/MyApp.dir/src/redmatrices.cpp.o CMakeFiles/MyApp.dir/src/reductionsubnet.cpp.o CMakeFiles/MyApp.dir/src/subnets.cpp.o -o MyApp 
